@@ -16,7 +16,7 @@ This project involves the design and documentation of a UML-based system. The ke
    - A graphical representation of the system's structure, showing classes, attributes, methods, and their relationships.
    - Key entities include `Utilisateur`, `BaseDeDonnees`, `Seance`, `Capteur`, `Abonnement`, and others.
 
-2. **Project Report** (`UML Project Report - Yasser EL KOUHEN.pdf`)
+2. **Project Report** (`UML Project Report - Walid MOUH MOUH.pdf`)
    - A detailed explanation of the UML model, design choices, and functionality.
    - Describes the responsibilities of different classes, use case scenarios, and potential system behaviors.
 
